@@ -9,7 +9,7 @@ I'm a programmer. I enjoy problem solving, mainly doing leetcode problems. I als
 
 - **Name**: Ashwin Anand
 - **Location**: Jaipur,Rajasthan
-- **Current Year at Uni**: 2nd
+- **Current Year at Institute**: 2nd
 
 ---
 
