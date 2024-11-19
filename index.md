@@ -10,6 +10,7 @@ I'm a programmer. I enjoy problem solving, mainly doing leetcode problems. I als
 - **Name**: Ashwin Anand
 - **Location**: Jaipur,Rajasthan
 - **Current Year at Uni**: 2nd
+
 ---
 
 ## Education
@@ -30,6 +31,7 @@ Some of my key skills include:
 - **Game Development**: Unity
 - **Data Structures and Algorithms**: Solved over 200 problems on leetcode.
 ![Unity](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
+
 ---
 
 ## Interests
